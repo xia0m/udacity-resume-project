@@ -1,0 +1,38 @@
+#featured-work {
+    color:#7d97ad;
+    padding-top:15px;
+}
+
+p {
+    color:#7d97ad;
+    padding-bottom:30px;
+}
+
+hr {
+    border:2px solid #7d97ad;
+}
+
+#logo {
+    padding-top:30px;
+}
+
+footer a {
+    color:#7d97ad;
+    padding:10px;
+}
+
+footer {
+    margin-top:1vh;
+}
+@media screen and (max-width:600px){
+    #name-job {
+        text-align: center;
+    }
+    #logo {
+        margin:0 auto;
+    }
+}
+
+
+
+
